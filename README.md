@@ -5,7 +5,7 @@ type: lecture
 resources: 0
 ---
 
-## Command Line Basics (20 min)
+## Command Line Basics ~ 20 min
 
 Watch the video below if you are unfamiliar with the command line. It will walk you through basic commands that we will use day to day in this course. It will also be helpful later when you start setting up GIT. 
 
