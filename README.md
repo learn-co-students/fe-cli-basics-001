@@ -1,9 +1,4 @@
----
-language: bash
-tags: cli, terminal, basics, beginner
-type: lecture
-resources: 0
----
+
 
 ## Command Line Basics ~ 20 min
 
